@@ -21,7 +21,7 @@ Below is a step-by-step beginner-friendly process of how to get this working:
 
 8. In Explorer -> Workspace, your rig should have a + sign next to it as well (all items in the Explorer have a + sign next to them). Press the + and insert a Script
 
-9. Paste the code into the Script, and change the part name on lines if necessary (comments will be left next to the lines in the script)
+9. Paste the code into the Script (the script is in another file and is also in the codespace), and change the part name on lines if necessary (comments will be left next to the lines in the script)
 
 10. Press Play and watch your rig run around randomly!
 
