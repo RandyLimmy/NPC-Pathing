@@ -1,7 +1,9 @@
 # NPC-Pathing
 Coded in LuaU, through Roblox Studio. It doesn't get any simpler than this
 
-Hello 👋 This is my first EVER small project I worked on alone created in Roblox Studio. I created this around August 2024 but never posted about it, so here it is! I noticed that many online tutorials on NPC pathfinding rely on placing multiple parts along predefined pathways. However, I wanted to approach this differently by allowing the NPC to move autonomously and unpredictably while only using a single part as its anchor. The result is an NPC that navigates its environment at random intervals, showcasing a cleaner and more dynamic approach to pathfinding. I hope you find this project helpful and enjoyable! 
+![Screen Recording 2025-01-05 at 9 07 11 PM (4)](https://github.com/user-attachments/assets/14436c4c-2d86-41bc-8ed6-d10b587026bb)
+
+Hello 👋 This is my first EVER small project I worked on alone created in Roblox Studio. I created this around June 2024 but never posted about it, so here it is! I noticed that many online tutorials on NPC pathfinding rely on placing multiple parts along predefined pathways. However, I wanted to approach this differently by allowing the NPC to move autonomously and unpredictably while only using a single part as its anchor. The result is an NPC that navigates its environment at random intervals, showcasing a cleaner and more dynamic approach to pathfinding. I hope you find this project helpful and enjoyable! 
 
 NOTE: The NPC will also run away from you if your character is the closest. THESE NPCS ARE NOT INTERACTABLE 
 
@@ -28,3 +30,5 @@ Below is a step-by-step beginner-friendly process of how to get this working:
 10. Press Play and watch your rig run around randomly!
 
 PS. If you get too close to the rig, it will run away from your character. If you want it to continuously run away from your character, feel free to edit the wait time at the bottom of the script you just pasted. If you do not wish for it to run away from your character, a comment is left near the lines in the script. You can delete those lines. 
+
+Watch for visual: https://youtu.be/n_jBJiIlYNo
